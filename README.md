@@ -1,5 +1,5 @@
 > ⚠️ **Newbie Alert:** I'm learning cloud security in public!  
-> **Start Date:** 2024-08-15  
+> **Start Date:** 2025-07-23
 
 ## 🚨 The Horror Story
 **What I did:**
